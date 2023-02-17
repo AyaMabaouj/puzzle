@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "165170817291",
+    "project_id": "puzzle-f3efe",
+    "storage_bucket": "puzzle-f3efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165170817291:android:5bb007dc8f95dcf2f55a0e",
+        "android_client_info": {
+          "package_name": "com.example.puzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165170817291-nfr30des3pk32r5ptcf2q9t2b5efp4v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.puzzle",
+            "certificate_hash": "9b3c82d6aff1b161022bc804d5345a86a8c97eed"
+          }
+        },
+        {
+          "client_id": "165170817291-cdn9qthtij7flh0gc37o0l8ai696pt5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJGfqLOPyTU-5DsSvLqYKP_REL0EBPYP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165170817291-cdn9qthtij7flh0gc37o0l8ai696pt5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
